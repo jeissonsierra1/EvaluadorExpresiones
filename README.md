@@ -46,11 +46,8 @@ El código está organizado de la siguiente manera:
    https://github.com/jeissonsierra1/EvaluadorExpresiones.git
 ``
 - Compilar y ejecutar en terminal
-- Ejecutar en NetBeans:
-  
-1. Abre NetBeans y selecciona Archivo → Abrir Proyecto.
-2. Busca la carpeta del proyecto y ábrela.
-3. Ejecuta el programa en la clase Main.
+- Ejecutar en NetBeans  
+ - Ejecuta el programa en la clase Main.
 
 
 
